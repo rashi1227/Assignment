@@ -12,7 +12,7 @@ const courses = [
         module: "Module 1",
         image: rowone,
         isLocked: false,
-        progress: 70 // Progress percentage
+        progress: 70
     },
     {
         title: "AI Induced Cybersecurity with CyberVie",

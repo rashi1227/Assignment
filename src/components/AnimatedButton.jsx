@@ -1,7 +1,7 @@
 import { useRef, useState } from "react";
 import { motion } from "framer-motion";
 
-const TARGET_TEXT = "Encrypt data"; // You can customize this if needed
+const TARGET_TEXT = "Encrypt data"; 
 const CYCLES_PER_LETTER = 2;
 const SHUFFLE_TIME = 70;
 const CHARS = "!@#$%^&*():{};|<>";
